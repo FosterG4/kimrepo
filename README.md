@@ -1,3 +1,10 @@
+#jpegoptim multithread, and skip fails compress 75% no loss quality
+=====================================================================================
+https://github.com/FosterG4/kimrepo/blob/master/jpegoptim-multi-thread.sh
+=====================================================================================
+
+
+
 # Auto Install LEMP STACK, malware & virus scanner, Tunning Kernel, add swap, and etc
 
 =====================================================================================
