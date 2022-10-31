@@ -1,7 +1,7 @@
-# MariaDB 10.8 CentOS repository list - created 2022-10-31 05:45 UTC
+# MariaDB 10.8 CentOS repository list - created 2022-10-31 05:50 UTC
 # https://mariadb.org/download/
 [mariadb]
 name = MariaDB
-baseurl = https://mirror.telkomuniversity.ac.id/mariadb/yum/10.8/centos7-amd64
-gpgkey=https://mirror.telkomuniversity.ac.id/mariadb/yum/RPM-GPG-KEY-MariaDB
+baseurl = https://download.nus.edu.sg/mirror/mariadb/yum/10.8/centos7-amd64
+gpgkey=https://download.nus.edu.sg/mirror/mariadb/yum/RPM-GPG-KEY-MariaDB
 gpgcheck=1
