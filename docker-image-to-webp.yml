@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  webp:
+    image: webpsh/webp-server-go
+    restart: always
+    volumes:
+      - ./path/to/pics:/opt/pics
+      - ./path/to/exhaust:/opt/exhaust
+    ports:
+      -  127.0.0.1:3333:3333
+    deploy:
+      resources:
+        limits:
+          memory: 200M
